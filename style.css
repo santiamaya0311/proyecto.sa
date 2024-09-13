@@ -1,0 +1,44 @@
+
+h2{
+    background-color: aqua;
+}
+
+
+.sa{
+    background-color: brown;
+}
+
+.de{
+    background-color: blue;
+}
+
+.sa{
+    width: 100px;
+    height: 100px;
+}
+
+.de{
+    width: 100px;
+    height: 100px;
+}
+
+.sa{
+    margin: 10px 10px 10px 10px ;
+    border:solid 2px yellow;
+    border-radius: 13px;
+
+}
+
+
+.de{
+    border:solid 2px yellow;
+    margin: 10px 10px 10px 10px ;
+    border-radius: 13px;
+
+
+}
+
+
+
+
+
